@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dekay27
-- 👀 I’m interested in development of web apps and deisgn
+- 👀 I’m interested in development of web apps and design
 - 🌱 I’m currently learning JavaScript and ES6
 - 💞️ I’m looking to collaborate on web-based projects that are PHP-based
 - 📫 You can reach me on dannykumah27@gmail.com
