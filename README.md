@@ -26,8 +26,6 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [danielkumah.com](https://www.danielkumah.com/)
 
 ---
-- [<ins><b>©2024 Daniel Kumah. All rights reserved</b></ins>](https://www.danielkumah.com/)
----
 
 ## [Project 1: Sales Dashboard](https://danielkumah.com/httpsgithubcomtushar2704consumablessalesdashboard)
 
@@ -49,7 +47,6 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 - [<ins><b>©2024 Daniel Kumah. All rights reserved</b></ins>](https://www.danielkumah.com/)
 - <b>[LinkedIn](https://www.linkedin.com/in/danielkumah/)</b>
 - <b>[Medium](https://medium.com/@danielkumah)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.danielkumah.com/)</b>
 - <b>[New Kaggle](https://www.kaggle.com/danielkumah)</b> 
 
   
