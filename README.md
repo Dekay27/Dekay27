@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dekay27
-- 👀 I’m interested in development of web apps and design
-- 🌱 I’m currently learning JavaScript and ES6
-- 💞️ I’m looking to collaborate on web-based projects that are PHP-based
+- 👀 I’m interested in data analysis and dashboard visualizations
+- 🌱 I’m currently advancing my proficiency in PowerBI
+- 💞️ I’m looking to take on data analysis projects
 - 📫 You can reach me on dannykumah27@gmail.com
 
 <!---
