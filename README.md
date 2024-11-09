@@ -37,7 +37,7 @@ Consumable Sales Dashboard, a powerful and intuitive data visualization tool bui
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@danielkumah.com](mailto:info@danielkumah.com) or connect with me on LinkedIn at [Daniel Kumah](https://www.linkedin.com/in/danielkumah).
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [dannykumah27@gmail.com](mailto:dannykumah27@gmail.com) or connect with me on LinkedIn at [Daniel Kumah](https://www.linkedin.com/in/danielkumah).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
