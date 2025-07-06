@@ -24,7 +24,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 ## About Me
 Experienced web developer with over a decade’s experience working with computer systems. Proven ability to translate business requirements into technical solutions that drive success. Proficient in PHP, Laravel, AWS cloud infrastructure, and managing databases. Passionate about developing, implementing and testing web solutions.
-Visit [danielkumah.com](https://bigballerde.tech/)
+Visit [my personal website.](https://bigballerde.tech/)
 
 ---
 
