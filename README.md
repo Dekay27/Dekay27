@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Dekay27
-- 👀 I’m interested in web applications and data analysis
-- 🌱 I’m currently advancing my proficiency in PowerBI
+- 👀 I’m interested in developing web applications and data analysis
+- 🌱 I’m currently advancing my proficiency in Laravel
 - 💞️ I’m looking to take on PHP web development projects
 - 📫 You can reach me on dannykumah27@gmail.com
 
 
 # Daniel's Portfolio Projects
+![Laravel](https://img.shields.io/badge/Laravel-8A2BE2)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
