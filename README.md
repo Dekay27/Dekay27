@@ -23,7 +23,8 @@
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## About Me
-I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [danielkumah.com](https://www.danielkumah.com/)
+Experienced web developer with over a decade’s experience working with computer systems. Proven ability to translate business requirements into technical solutions that drive success. Proficient in PHP, Laravel, AWS cloud infrastructure, and managing databases. Passionate about developing, implementing and testing web solutions.
+Visit [danielkumah.com](https://bigballerde.tech/)
 
 ---
 
@@ -44,7 +45,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
 
 ## Author
-- [<ins><b>©2024 Daniel Kumah. All rights reserved</b></ins>](https://www.danielkumah.com/)
+- [<ins><b>©2025 Daniel Kumah. All rights reserved</b></ins>]([https://www.danielkumah.com/](https://bigballerde.tech/))
 - <b>[LinkedIn](https://www.linkedin.com/in/danielkumah/)</b>
 - <b>[Medium](https://medium.com/@danielkumah)</b> 
 - <b>[New Kaggle](https://www.kaggle.com/danielkumah)</b> 
