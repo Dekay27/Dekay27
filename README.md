@@ -5,13 +5,13 @@
 - 📫 You can reach me on dannykumah27@gmail.com
 
 
-# Daniel's Portfolio Projects
+# Daniel's Portfolio Skills
 ![Laravel](https://img.shields.io/badge/Laravel-8A2BE2?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-F24E1E?style=for-the-badge)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -27,15 +27,6 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ## About Me
 Experienced web developer with over a decade’s experience working with computer systems. Proven ability to translate business requirements into technical solutions that drive success. Proficient in PHP, Laravel, AWS cloud infrastructure, and managing databases. Passionate about developing, implementing and testing web solutions.
 Visit [my personal website.](https://bigballerde.tech/)
-
----
-
-## [Project 1: Sales Dashboard](https://danielkumah.com/httpsgithubcomtushar2704consumablessalesdashboard)
-
-Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
-## Preview
-
-![sales](https://github.com/bigballerde/bigballerde-GIFs/blob/main/salesdashboard.gif)
 
 
 ## Contact Information
