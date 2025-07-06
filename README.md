@@ -13,10 +13,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-B7472A?style=for-the-badge&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-07405E?style=for-the-badge&logo=figma&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-CC2927?style=for-the-badge&logoColor=white)
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
@@ -37,11 +37,10 @@ Thank you for visiting my GitHub! I hope you find ways I could serve you or coll
 - [<ins><b>©2025 Daniel Kumah. All rights reserved</b></ins>]([https://www.danielkumah.com/](https://bigballerde.tech/))
 - <b>[LinkedIn](https://www.linkedin.com/in/danielkumah/)</b>
 - <b>[Medium](https://medium.com/@danielkumah)</b> 
-- <b>[New Kaggle](https://www.kaggle.com/danielkumah)</b> 
 
   
 ## License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX files are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/danielkumah) profile. Thank you
+Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX files are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [services](https://bigballerde.tech/#portfolio). Thank you.
 
 <!---
 Dekay27/Dekay27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
